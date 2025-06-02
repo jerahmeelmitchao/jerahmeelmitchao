@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jerahmeel 👋
 
-<!--
-**jerahmeelmitchao/jerahmeelmitchao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a Bachelor of Science in Information Technology student from DORSU Banaybanay Campus.
 
-Here are some ideas to get you started:
+## Skills
+- Programming: PHP, JavaScript, SQL
+- Tools: Git, GitHub, Laravel
+- Hobbies: Playing online games, badminton
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Loading Spinner](https://loading.io/spinners/double-ring/lg.double-ring-spinner.gif)
+
+![GitHub followers](https://img.shields.io/github/followers/jerahmeel?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)
+
+![Jerahmeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerahmeel&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerahmeel&layout=compact&theme=radical)
